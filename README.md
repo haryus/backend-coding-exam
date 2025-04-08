@@ -19,7 +19,7 @@ If the project is in a Git repository, clone the project using the following com
 bash
 Copy
 Edit
-git clone https://github.com/your-username/your-laravel-project.git
+git clone https://github.com/haryus/backend-coding-exam.git
 Option 2: Download as ZIP
 If you have a ZIP file of the project, simply extract the contents to a directory on your local machine.
 
